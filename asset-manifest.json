@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tanabish/static/css/main.0a80f17a.css",
+    "main.js": "/tanabish/static/js/main.54d207cf.js",
+    "static/js/787.cc4a9a4c.chunk.js": "/tanabish/static/js/787.cc4a9a4c.chunk.js",
+    "index.html": "/tanabish/index.html",
+    "main.0a80f17a.css.map": "/tanabish/static/css/main.0a80f17a.css.map",
+    "main.54d207cf.js.map": "/tanabish/static/js/main.54d207cf.js.map",
+    "787.cc4a9a4c.chunk.js.map": "/tanabish/static/js/787.cc4a9a4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a80f17a.css",
+    "static/js/main.54d207cf.js"
+  ]
+}
